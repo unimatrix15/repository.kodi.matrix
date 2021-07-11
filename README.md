@@ -1,5 +1,5 @@
-# repository.publish3r
+# repository.unimatrix
 
-Publish3r's Official Kodi Repository
+unimatrix Official Kodi Repository
 
 - working on Kodi 19.x (Matrix)
